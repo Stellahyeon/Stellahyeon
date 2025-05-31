@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello! I'm a Product Designer Stella:)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Stellahyeon}?pet-id=1" width="1000" height="120"/>
+</a>
 <!--
 **Stellahyeon/Stellahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
